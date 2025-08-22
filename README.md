@@ -22,7 +22,7 @@
 
 <div align="left">
   <a href="https://github.com/ArthurNeiva017" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Arthur%20NEIVA&logo=gitlab&label=&color=FF0000&logoColor=FF0000&labelColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
+    <img src="https://img.shields.io/static/v1?message=Arthur%20NEIVA&logo=gitlab&label=&color=FF0000&logoColor=FF0000&labelColor=black&style=for-the-badge" height="50" alt="gitlab logo"  />
   </a>
 </div>
 
